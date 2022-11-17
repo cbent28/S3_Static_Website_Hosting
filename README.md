@@ -98,7 +98,8 @@ From the [AWS IAM Users Console](https://console.aws.amazon.com/iam/?#users) sel
   ]
 }
 ```
-Upload!
+Results!
 =======
+Select the bucket you uploaded your file to. Next press copy URL.
 
-Simply call `s3-upload` from the same directory as your config file, and the upload will happen.
+![Screen Shot 2022-11-17 at 1 11 41 PM](https://user-images.githubusercontent.com/104800728/202526573-a7976c99-eff9-458b-b70f-426997c05a2c.png)
