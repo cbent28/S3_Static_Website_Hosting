@@ -1,13 +1,12 @@
 # S3_Static_Website_Hosting
 Deploy static sites on Amazon
 --------------------------------------------
-
+<img width="1440" alt="Screen Shot 2022-11-17 at 12 49 31 PM" src="https://user-images.githubusercontent.com/104800728/202520500-2f9c26c6-b7de-4ae0-a084-7aadb5257f7a.png">
 S3 Bucket Setup
 ===============
 
 Create a bucket 
 ---------------
-<img width="1440" alt="Screen Shot 2022-11-17 at 12 49 31 PM" src="https://user-images.githubusercontent.com/104800728/202520500-2f9c26c6-b7de-4ae0-a084-7aadb5257f7a.png">
 
 Bucket names must conform with DNS requirements:
 
