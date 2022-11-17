@@ -1,6 +1,4 @@
-# S3_Static_Website_Hosting
-
-Deploy static sites on Amazon
+Deploy static sites Amazon Web Services S3 Bucket
 --------------------------------------------
 
 ![dog](https://user-images.githubusercontent.com/104800728/202526403-3648d25a-f842-4321-9c7b-27796319397b.jpeg)
