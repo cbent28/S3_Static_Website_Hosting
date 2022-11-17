@@ -22,13 +22,9 @@ Bucket names must conform with DNS requirements:
 Configure the Bucket Static Website Hosting
 -------------------------------------------
 
+![Screen Shot 2022-11-17 at 1 13 05 PM](https://user-images.githubusercontent.com/104800728/202525712-9847e5ff-9da4-416f-8b9f-94bb862a031c.png)
+
 Once the bucket is created, select it and choose `Properties > Static Website Hosting`. 
-
-Choose proper values for the `Index Document` and `Error Document` fields (i.e. **index.html** and **404.html**). 
-
-The Index Document is searched for relative to the requested folder: [http://my.aws.site.com/some/subfolder/]() **becomes** [http://my.aws.site.com/some/subfolder/**index.html**]().
-	
-The Error Document path is always relative to the root of the site. All errors are redirected to [http://my.aws.site.com/**404.html**](). 
 
 
 Configure a Public Readable Policy for the Bucket
